@@ -1,0 +1,4 @@
+fastapi==0.103.2    # api框架
+uvicorn==0.23.2     # http服务器
+httpx==0.25.0       # http客户端
+
